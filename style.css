@@ -794,7 +794,10 @@ footer span a:hover{
 }
 
 @media (max-width:500px){
-	
+	.navbar .logo a{
+		font-weight: 600;
+		font-size: 25px;
+	}
 	.home .home-content .text-2{
 		font-size: 50px;
 		font-weight: 600;
