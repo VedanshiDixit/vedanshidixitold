@@ -510,7 +510,9 @@ section .title::after{
 	font-weight: 500;
 	margin: 10px 0 7px;
 }
-
+.projects .carousel .card .text a{
+	color: blue;
+}
 .owl-dots{
 	text-align: center;
 	margin-top: 20px;
